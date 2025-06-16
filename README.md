@@ -116,3 +116,5 @@ This project uses libsodium and other libraries for security and functionality. 
 ## License
 
 This project is under the [MIT License](/LICENSE).
+
+Update: Fixed inaccessible url
